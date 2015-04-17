@@ -3,3 +3,7 @@
 *.pyc
 *~
 
+# Mac OS
+.DS_Store
+
+
